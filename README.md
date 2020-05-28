@@ -17,12 +17,18 @@ Microsoft, Yahoo, Google, Facebook, Paltalk, AOL, Skype, Apple, cisco
 
 ## How to be keep you data safe in every ways?
 
+
+You need a VPS(Preferably AliCloud/Huawei Cloud as they have no relations in anyways with American Agencies)
+A Computer(Mac/Windows/Linux all works)
+
 1. Bulid a SSR-VPN yourself with a safe VPS+doub.io script installation guide, ([here for the backup portal](https://github.com/ToyoDAdoubiBackup/doubi)) remember not to install Google BBR algorithm
-2. Use Linux to browse the Internet, any is fine, but I like Deepin the most
-3. Save a copy of 
+2. Save the key and use a SSR software such as ShadowsocksR
+3. Use Linux to browse the Internet(any is fine, but I like Deepin the most)
 <br />
 <br />
 <br />
+
+
 
 
 ## Refrence:
@@ -35,7 +41,7 @@ Microsoft, Yahoo, Google, Facebook, Paltalk, AOL, Skype, Apple, cisco
 
 ## Donate
 
-**Thank You So Much!** <br />
+**Thank You So Much!** <br /><br /><br />
 <img src="https://user-images.githubusercontent.com/31880587/83159853-0bb76e80-a139-11ea-8e8d-3e9da749085a.PNG" width="15%"></img> 
 Bitcoin: 1D7pHSDxwiPdCZV1SigNtVk3oWDap7qyK8
 
