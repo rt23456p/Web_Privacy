@@ -1,7 +1,8 @@
 # Web_Privacy
 
 ### Activity Purpose
-An activity to promote freedom, privacy on the internet without any other people, organization, agency can see their privacy, inspired by former NSA officer Edward Snowden, famous for writing the book "Permanent Record"
+An activity to promote freedom, privacy on the internet without any other people, organization, agency can see their privacy, inspired by former NSA officer Edward Snowden, famous for writing the book "Permanent Record",
+
 
 
 
@@ -19,7 +20,10 @@ Microsoft, Yahoo, Google, Facebook, Paltalk, AOL, Skype, Apple, cisco
 
 
 ["Snowden Leaks Caused US 'Significant Harm' – Mueller". BBC News.](https://www.bbc.co.uk/news/world-us-canada-22884566)
-
-
-
-
+[Here's how the NSA spied on Cisco firewalls for years](https://www.engadget.com/2016-08-21-nsa-technique-for-cisco-spying.html)
+[Snowden: The NSA planted backdoors in Cisco products](https://www.infoworld.com/article/2608141/snowden--the-nsa-planted-backdoors-in-cisco-products.html)
+[ "Mapping the Canadian Government's Telecommunications Surveillance". citizenlab.org.](https://citizenlab.ca/2014/03/mapping-canadian-governments-telecommunications-surveillance/)
+[]()
+[]()
+[]()
+[]()
