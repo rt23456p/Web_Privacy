@@ -42,7 +42,7 @@ A Computer(Mac/Windows/Linux all works)
 ## Donate
 
 **Thank You So Much!** <br /><br /><br />
-<img src="https://user-images.githubusercontent.com/31880587/83159853-0bb76e80-a139-11ea-8e8d-3e9da749085a.PNG" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/31880587/83159853-0bb76e80-a139-11ea-8e8d-3e9da749085a.PNG" width="15%"></img> <br />
 Bitcoin: 1D7pHSDxwiPdCZV1SigNtVk3oWDap7qyK8
 
 []()
