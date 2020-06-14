@@ -12,7 +12,7 @@ Microsoft, Yahoo, Google, Facebook, Paltalk, AOL, Skype, Apple, cisco
 
 
 ### Why You Don't Want to be spied by the American Government?
-Every one should have privacy, it's a hunman right!
+Every one should have privacy, it's a human right!
 
 ## Slides of such programs
 
