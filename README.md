@@ -1,5 +1,6 @@
 # Web_Privacy
 
+
 ### Activity Purpose
 An activity to promote freedom, privacy on the internet without any other people, organization, agency can see their privacy, inspired by former NSA officer Edward Snowden, famous for writing the book "Permanent Record",
 
@@ -8,6 +9,10 @@ An activity to promote freedom, privacy on the internet without any other people
 
 ### Companies that are known for selling your data
 Microsoft, Yahoo, Google, Facebook, Paltalk, AOL, Skype, Apple, cisco
+
+
+### Why You Don't Want to be spied by the American Government?
+Every one should have privacy, it's a hunman right!
 
 ## Slides of such programs
 
