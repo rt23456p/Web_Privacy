@@ -10,7 +10,7 @@ Microsoft, Yahoo, Google, Facebook, Paltalk, AOL, Skype, Apple, cisco
 
 
 ### Why You Don't Want to be spied by the American Government?
-Every one should have privacy, it's a human right!
+Every one should have privacy, it's a human right! Also, if you are not American or does not reside in USA, you may broke US laws like me but don't want the US to know!
 
 ## Slides of such programs
 
