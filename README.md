@@ -10,7 +10,7 @@ Microsoft, Yahoo, Google, Facebook, Paltalk, AOL, Skype, Apple, cisco
 
 
 ### Why You Don't Want to be spied by the American Government?
-Every one should have privacy, it's a human right! Also, if you are not American or does not reside in USA, you may broke US laws like me but don't want the US to know!
+Every one should have privacy, it's a human right! Also, if you are not American Citizen or does not reside in USA, you may have done certain action such as trading with certain nations that the US governement don't want you to ever trade with! These countries includes DPRK, Iran, etc...
 
 ## Slides of such programs
 
@@ -19,7 +19,6 @@ Every one should have privacy, it's a human right! Also, if you are not American
 
 
 ## How to be keep you data safe in every ways?
-
 
 You need a VPS(Preferably AliCloud/Huawei Cloud as they have no relations in anyways with American Agencies)
 A Computer(Mac/Windows/Linux all works)
@@ -44,7 +43,7 @@ A Computer(Mac/Windows/Linux all works)
 
 ## Support Me by Donating:
 
-**Thank You So Much!** <br /><br /><br />
+**Thank You So Much to keep this program running!** <br /><br /><br />
 <img src="https://user-images.githubusercontent.com/31880587/83159853-0bb76e80-a139-11ea-8e8d-3e9da749085a.PNG" width="15%"></img> <br />
 Bitcoin Address: 1D7pHSDxwiPdCZV1SigNtVk3oWDap7qyK8
 
