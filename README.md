@@ -44,8 +44,10 @@ A Computer(Mac/Windows/Linux all works)
 ## Support Me by Donating:
 
 **Thank You So Much to keep this program running!** <br /><br /><br />
+QR CODE for Bitcoin Donations
 <img src="https://user-images.githubusercontent.com/31880587/83159853-0bb76e80-a139-11ea-8e8d-3e9da749085a.PNG" width="15%"></img> <br />
 Bitcoin Address: 1D7pHSDxwiPdCZV1SigNtVk3oWDap7qyK8
+More to be added later!
 
 []()
 []()
