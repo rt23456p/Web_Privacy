@@ -10,7 +10,7 @@ Microsoft, Yahoo, Google, Facebook, Paltalk, AOL, Skype, Apple, cisco , more to 
 
 
 ### Why You Don't Want to be spied by the American Government?
-Every one should have privacy, it's a human right! Also, if you are not American Citizen or does not reside in USA, you may have done certain action such as trading with certain nations that the US governement don't want you to ever trade with! These countries includes DPRK, Iran, etc...
+Every one should have privacy, it's a human right! Also, if you are not American Citizen or does not reside in USA, you may have done certain action such as trading with certain nations that the US governement don't want you to ever trade with! These countries includes DPRK, Iran, etc... And they don't have the right to spy on you anyways,
 
 ## Slides of such programs
 
@@ -20,10 +20,10 @@ Every one should have privacy, it's a human right! Also, if you are not American
 
 ## How to be keep you data safe in every ways?
 
-You need a VPS(Preferably AliCloud/Huawei Cloud as they have no relations in anyways with American Agencies)
+You need a VPS(Preferably AliCloud/Huawei Cloud as they definitely have no relations in anyways with American Agencies)
 A Computer(Mac/Windows/Linux all works)
 
-1. Bulid a SSR-VPN yourself with a safe VPS(Huawei Cloud,Alicloud is good but slightly more expensive)+doub.io script installation guide, ([here for the backup portal](https://github.com/ToyoDAdoubiBackup/doubi)) remember not to install Google BBR algorithm as this may put you in some risks
+1. Build a SSR-VPN yourself with a safe VPS(Huawei Cloud,Alicloud is good but slightly more expensive)+doub.io script installation guide, ([here for the backup portal](https://github.com/ToyoDAdoubiBackup/doubi)) remember not to install Google BBR algorithm as this may put you in some risks
 2. Save the key and use a SSR software such as ShadowsocksR
 3. Use Linux to browse the Internet(any is fine, but I like Deepin the most)
 <br />
