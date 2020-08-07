@@ -24,18 +24,20 @@ You need a VPS(Preferably AliCloud/Huawei Cloud as they definitely have no relat
 A Computer(Mac/Windows/Linux all works)
 
 1. Build a SSR-VPN yourself with a safe VPS(Huawei Cloud,Alicloud is good but slightly more expensive)+doub.io script installation guide, ([here for the backup portal](https://github.com/ToyoDAdoubiBackup/doubi)) remember not to install Google BBR algorithm as this may put you in some risks
-2. Save the key and use a SSR software such as ShadowsocksR
+2. Save the key and connect it by using a SSR software such as ShadowsocksR
 3. Use Linux to browse the Internet(any is fine, but I like Deepin the most)
 <br />
 <br />
 <br />
 
-## Refrence Section:
+## Reference Section:
 ["Snowden Leaks Caused US 'Significant Harm' – Mueller". BBC News.](https://www.bbc.co.uk/news/world-us-canada-22884566) <br />
 [Here's how the NSA spied on Cisco firewalls for years](https://www.engadget.com/2016-08-21-nsa-technique-for-cisco-spying.html) <br />
 [Snowden: The NSA planted backdoors in Cisco products](https://www.infoworld.com/article/2608141/snowden--the-nsa-planted-backdoors-in-cisco-products.html) <br />
 [ "Mapping the Canadian Government's Telecommunications Surveillance". citizenlab.org.](https://citizenlab.ca/2014/03/mapping-canadian-governments-telecommunications-surveillance/) <br />
 [ "NSA surveillance programs live on, in case you hadn't noticed](https://www.cnet.com/news/nsa-surveillance-programs-prism-upstream-live-on-snowden/) <br />
+[PRISM SLIDES](https://nsa.gov1.info/dni/prism.html) <br />
+
 <br />
 <br />
 ## Support Me by Donating:
