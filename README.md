@@ -7,7 +7,7 @@ This project to promote freedom, privacy on the internet without any other peopl
 <br />
 
 ### Companies that are known for selling your data
-Microsoft, Yahoo, Google, Facebook, Paltalk, AOL, Skype, Apple, cisco , more to be known
+Microsoft, Yahoo, Google, Facebook, Paltalk, AOL, Skype, Apple, CISCO , more to be known
 
 <br />
 <br />
@@ -52,6 +52,10 @@ QR CODE for Bitcoin Donations
 Bitcoin Address: 1D7pHSDxwiPdCZV1SigNtVk3oWDap7qyK8
 More to be added later!
 
-[]()
+<br />
+<br />
+## Read More on ,
+[Everything you need to know about PRISM](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet)
+[NSA Prism program taps in to user data of Apple, Google and others](https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data)
 []()
 []()
