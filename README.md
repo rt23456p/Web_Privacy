@@ -40,7 +40,7 @@ A Computer(Mac/Windows/Linux all works)
 [Snowden: The NSA planted backdoors in Cisco products](https://www.infoworld.com/article/2608141/snowden--the-nsa-planted-backdoors-in-cisco-products.html) <br />
 [ "Mapping the Canadian Government's Telecommunications Surveillance". citizenlab.org.](https://citizenlab.ca/2014/03/mapping-canadian-governments-telecommunications-surveillance/) <br />
 [ "NSA surveillance programs live on, in case you hadn't noticed](https://www.cnet.com/news/nsa-surveillance-programs-prism-upstream-live-on-snowden/) <br />
-[PRISM SLIDES](https://nsa.gov1.info/dni/prism.html) <br />
+[PRISM Slides](https://nsa.gov1.info/dni/prism.html) <br />
 
 <br />
 <br />
@@ -53,8 +53,8 @@ Bitcoin Address: 1D7pHSDxwiPdCZV1SigNtVk3oWDap7qyK8
 
 <br />
 <br />
-## Read More on ,
-["Everything you need to know about PRISM"](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet)  <br />
-["NSA Prism program taps in to user data of Apple, Google and others"](https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data)  <br />
+## Read More on,
+[Everything you need to know about PRISM](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet) <br />
+[NSA Prism program taps in to user data of Apple, Google and others](https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data) <br />
 
 More to be added later!
