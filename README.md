@@ -46,16 +46,21 @@ A Computer(Mac/Windows/Linux all works)
 <br />
 ## Support Me by Donating:
 
-**Thank You So Much to keep this program running!** <br /><br /><br />
+**Thank You So Much to keep this program running!**
+<br />
+<br />
+<br />
 QR CODE for Bitcoin Donations
+<br />
+
 <img src="https://user-images.githubusercontent.com/31880587/83159853-0bb76e80-a139-11ea-8e8d-3e9da749085a.PNG" width="15%"></img> <br />
 Bitcoin Address: 1D7pHSDxwiPdCZV1SigNtVk3oWDap7qyK8
 
 <br />
 <br />
-## Read More on,
+## To Read More on,
 <br />
-[Everything you need to know about PRISM](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet) <br />
+[Everything you need to know about PRISM ](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet) <br />
 [NSA Prism program taps in to user data of Apple, Google and others](https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data) <br />
 
 More to be added later!
