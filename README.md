@@ -54,8 +54,7 @@ Bitcoin Address: 1D7pHSDxwiPdCZV1SigNtVk3oWDap7qyK8
 <br />
 <br />
 ## Read More on ,
-[Everything you need to know about PRISM](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet)  <br />
-[NSA Prism program taps in to user data of Apple, Google and others](https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data)  <br />
-[]()
-[]()
+["Everything you need to know about PRISM"](https://www.theverge.com/2013/7/17/4517480/nsa-spying-prism-surveillance-cheat-sheet)  <br />
+["NSA Prism program taps in to user data of Apple, Google and others"](https://www.theguardian.com/world/2013/jun/06/us-tech-giants-nsa-data)  <br />
+
 More to be added later!
