@@ -44,11 +44,3 @@ A Computer(Mac/Windows/Linux all works)
 [PRISM Slides](https://nsa.gov1.info/dni/prism.html) <br />
 
 
-## Refrence:
-["Snowden Leaks Caused US 'Significant Harm' – Mueller". BBC News.](https://www.bbc.co.uk/news/world-us-canada-22884566) <br />
-[Here's how the NSA spied on Cisco firewalls for years](https://www.engadget.com/2016-08-21-nsa-technique-for-cisco-spying.html) <br />
-[Snowden: The NSA planted backdoors in Cisco products](https://www.infoworld.com/article/2608141/snowden--the-nsa-planted-backdoors-in-cisco-products.html) <br />
-[ "Mapping the Canadian Government's Telecommunications Surveillance". citizenlab.org.](https://citizenlab.ca/2014/03/mapping-canadian-governments-telecommunications-surveillance/) <br />
-
-
-
